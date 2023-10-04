@@ -6,7 +6,7 @@
 
 ## Your DNSTT Nameserver & your Domain `A` Record
 NS='sdns.art1.bagito.tech'
-A='sg12.dnstt.in'
+A='dns.ssh-sg-1.vpnsvr.net'
 ## Repeat dig cmd loop time (seconds) (positive interger only)
 LOOP_DELAY=5
 
